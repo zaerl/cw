@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# This is an old Perl 5.* script I keep the same without modernizing.
+# See https://zaerl.com/2025/05/13/perl-my-old-friend/
+
 &help unless(scalar @ARGV);
 
 while(@ARGV) {
